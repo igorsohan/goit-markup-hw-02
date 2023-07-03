@@ -60,7 +60,7 @@ body {
 }
 
 /* adress */
-address {
+.address {
   font-style: normal;
 }
 
@@ -86,11 +86,11 @@ address {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 /* order service button */
 .order-service-button {
-  border-radius: 4px;
   color: var(--white);
   font-weight: 500;
   background: var(--iris);
@@ -98,7 +98,6 @@ address {
 }
 
 button {
-  border: none;
   font-size: inherit;
   font-family: inherit;
   line-height: inherit;
@@ -163,6 +162,7 @@ button {
 .portfolio-nav {
   /* background */
   background: var(--cloud);
+  border: none;
   /* text */
   color: var(--iris);
   font-size: 16px;
