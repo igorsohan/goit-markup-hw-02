@@ -1,2 +1,3 @@
-# goit-markup-hw-01
-First homework, HTML
+# goit-markup-hw-02
+Second homework, HTML+CSS
+Created new page - Portfolio and linked CSS styles for both pages.
