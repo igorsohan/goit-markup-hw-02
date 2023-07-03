@@ -60,7 +60,7 @@ body {
 }
 
 /* adress */
-.address {
+.adress {
   font-style: normal;
 }
 
@@ -118,6 +118,7 @@ button {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  text-align: center;
 }
 
 .title-item {
